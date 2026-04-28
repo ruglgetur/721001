@@ -37,7 +37,7 @@ fi
 info "Installing huashu-design skill via npx skills..."
 echo
 
-npx skills add alchaincyf/huashu-design
+npx skills add alchaincyf/huashu-design --yes
 
 echo
 success "huashu-design installed successfully."
